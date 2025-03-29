@@ -21,6 +21,9 @@ struct HomeView: View {
             Text("Screen 2")
 
         }
+        .onAppear {
+            
+        }
     }
 }
 
