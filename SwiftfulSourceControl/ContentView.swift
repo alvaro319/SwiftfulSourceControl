@@ -21,11 +21,11 @@ struct ContentView: View {
                             Image(systemName: "globe.fill")
                                 .font(.largeTitle)
                                 .foregroundStyle(.tint)
-                            Text("Some New Title!!")
+                            Text("Swiftful Thinking!!!")
                             Button("Click Me!") {
                                 
                             }
-                            Button("Fixed subscription") {
+                            Button("Subscribe") {
                                 
                             }
                             Rectangle()
