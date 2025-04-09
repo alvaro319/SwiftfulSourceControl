@@ -1,0 +1,18 @@
+# the following examples assume that 'swiftfulthinking' should be the code owner for specific directories and file types
+# to make 'swiftfulthinking' the default owner for everything in the repo
+*          @alvaro319
+
+# to specify code ownership for specific directiories
+#  /docs/      @alvaro319
+#  /srcs/      @alvaro319
+
+# to specify code ownership for specific file types
+#  *.js        @alvaro319
+#  *.py        @alvaro319
+
+# to add more code owners, repeat the pattern above with the directory, file pattern or specific file, followed by the owner
+
+# you can also specify github teams as owners, using the @organic/teammate
+
+# example for specifying a team (replace team name with the actual team naame.
+# remember to replace swiftfulthinking' with the actual github usernameand and adjust the directories and file type, according to your project's structure.
