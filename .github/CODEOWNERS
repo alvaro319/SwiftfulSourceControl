@@ -1,5 +1,5 @@
 # the following examples assume that 'swiftfulthinking' should be the code owner for specific directories and file types
-# to make 'swiftfulthinking' the default owner for everything in the repo
+# to make 'alvaro319' the default owner for everything in the repo
 *          @alvaro319
 
 # to specify code ownership for specific directiories
